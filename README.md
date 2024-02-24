@@ -1,6 +1,6 @@
 ### 👋 Hello there!
 
-I'm a software engineer with a solid background in algebra and geometry.
+I'm a software engineer with a solid background in math.
 My passion lies in projects that bridge the gap between mathematics and technology.
 Whether it's data science, machine learning, or software architecture, I thrive on applying mathematical principles to solve real-world problems.
 

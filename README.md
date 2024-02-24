@@ -4,7 +4,7 @@ I'm a software engineer with a solid background in math.
 My passion lies in projects that bridge the gap between mathematics and technology.
 Whether it's data science, machine learning, or software architecture, I thrive on applying mathematical principles to solve real-world problems.
 
-My deepest interest lies in building tools specifically tailored for **applied topology** and **Topological Data Analysis**.
+My deepest interest lies in building tools specifically tailored for **applied topology** and **topological data analysis**.
 These fields allow me to explore the fascinating interplay between mathematical structures and practical applications, uncovering hidden patterns and insights.
 
 I'm excited to collaborate with fellow engineers, researchers, and data enthusiasts to build innovative solutions.

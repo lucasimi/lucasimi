@@ -1,20 +1,20 @@
 ### 👋 Hello there!
 
-I'm a software engineer with a solid background in math.
-My passion lies in projects that bridge the gap between mathematics and technology.
-Whether it's data science, machine learning, or software architecture, I thrive on applying mathematical principles to solve real-world problems.
+I'm a software engineer with a strong background in mathematics.
+I'm passionate about building projects that bridge the gap between math and technology.
+Whether it's data science, machine learning, or software architecture, I thrive on applying mathematical ideas to solve real-world problems.
 
-My deepest interest lies in building tools specifically tailored for **applied topology** and **topological data analysis**.
-These fields allow me to explore the fascinating interplay between mathematical structures and practical applications, uncovering hidden patterns and insights.
+My deepest interest lies in creating tools for **applied topology** and **topological data analysis**.
+These fields let me explore the rich intersection of mathematical structure and practical application, uncovering hidden patterns and insights in complex data.
 
-I'm excited to collaborate with fellow engineers, researchers, and data enthusiasts to build innovative solutions.
+I'm always excited to collaborate with engineers, researchers, and data enthusiasts to build innovative, math-driven solutions.
 
-- 📚 **Educational Background**: PhD in Mathematics, specialized in algebra and geometry.
+- 📚 **Education**: PhD in Mathematics, with a focus on algebra and geometry
+- 💻 **Experience**: Backend engineer, specializing in real-time data-intensive applications
 
-- 💻 **Professional Expertise**: Backend engineer, specialized in GIS-related data intensive applications.
-  Currently working @ [Umovity](https://www.umovity.com/en)
+---
 
-### 🚀 **Working on** 
+### 🚀 Currently working on
 
-- [tda-mapper-python](https://github.com/lucasimi/tda-mapper-python): A simple and efficient Python implementation of Mapper algorithm for Topological Data Analysis 
-
+- [tda-mapper](https://github.com/lucasimi/tda-mapper-python)  
+  A simple and efficient Python implementation of the Mapper algorithm for topological data analysis.

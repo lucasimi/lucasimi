@@ -1,20 +1,19 @@
-### 👋 Hello there!
+# Luca Simi, PhD
 
-I'm a software engineer with a strong background in mathematics.
-I'm passionate about building projects that bridge the gap between math and technology.
-Whether it's data science, machine learning, or software architecture, I thrive on applying mathematical ideas to solve real-world problems.
+Software engineer building high-performance systems for real-time data and distributed workloads.
 
-My deepest interest lies in creating tools for **applied topology** and **topological data analysis**.
-These fields let me explore the rich intersection of mathematical structure and practical application, uncovering hidden patterns and insights in complex data.
+I enjoy turning complex, math-heavy problems into reliable, scalable software, especially in data-intensive and geospatial contexts.
 
-I'm always excited to collaborate with engineers, researchers, and data enthusiasts to build innovative, math-driven solutions.
-
-- 📚 **Education**: PhD in Mathematics, with a focus on algebra and geometry
-- 💻 **Experience**: Backend engineer, specializing in real-time data-intensive applications
+- ⌨️ **Languages**: Python, Java, JavaScript, Haskell
+- 🤖 **Backend**: FastAPI, Spring Boot
+- 📊 **Data**: Kafka, Spark, Postgres, Cassandra
+- 🗺️ **GIS**: PostGIS, GeoServer, GeoTools, GeoMesa, MapLibre, OpenLayers
 
 ---
 
-### 🚀 Currently working on
+## 🚀 Projects
 
 - [tda-mapper](https://github.com/lucasimi/tda-mapper-python)  
-  A simple and efficient Python implementation of the Mapper algorithm for topological data analysis.
+  Mapper is a powerful tool for exploring the shape of high-dimensional data, but existing implementations often struggle to scale.
+
+  This project provides a faster, more practical implementation, with a focus on efficient cover construction that scales with the intrinsic dimension of the lens rather than the ambient space.

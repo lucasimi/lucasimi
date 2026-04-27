@@ -9,8 +9,6 @@ I enjoy turning complex, math-heavy problems into reliable, scalable software, e
 - 📊 **Data**: Kafka, Spark, Postgres, Cassandra
 - 🗺️ **GIS**: PostGIS, GeoServer, GeoTools, GeoMesa, MapLibre, OpenLayers
 
----
-
 ## 🚀 Projects
 
 - [tda-mapper](https://github.com/lucasimi/tda-mapper-python)  
